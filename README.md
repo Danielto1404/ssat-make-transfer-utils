@@ -6,7 +6,8 @@ This repository enables you to transfer makeup using SSAT model.
 
 ### Download weights
 
-For executing transfer procedure please download
+For executing transfer procedure please download model
+weights [google drive](https://drive.google.com/drive/folders/1SkxAHTa9XMiK328J1G_ejjEbFpPS4nWX)
 
 `SSAT.pth` and `PARSING.pth` and place it on [models](models) folder.
 
