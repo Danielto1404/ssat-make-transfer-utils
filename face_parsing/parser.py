@@ -3,7 +3,7 @@ import torch
 import torchvision.transforms as transforms
 
 from .model import BiSeNet
-from ..image_utils import resize_with_aspect
+from utils.image_utils import resize_with_aspect
 
 
 class FaceParser:

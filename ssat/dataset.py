@@ -1,7 +1,7 @@
 import numpy as np
 import torch
 
-from image_utils import resize_with_aspect
+from utils.image_utils import resize_with_aspect
 
 
 class MakeupTransferData:

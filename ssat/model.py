@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 
-from make_options import MakeOptions
-from networks import init_net, E_makeup, E_content, E_semantic, Transformer, Decoder
+from .make_options import MakeOptions
+from .networks import init_net, E_makeup, E_content, E_semantic, Transformer, Decoder
 
 
 class MakeupGAN(nn.Module):
